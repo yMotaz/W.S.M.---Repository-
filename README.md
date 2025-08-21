@@ -43,7 +43,7 @@ cloud.
 * Usabilidade – Interface intuitiva, com treinamento rápido para novos
 usuários.
     </td>
-    <td style="padding: 10px; vertical-align: middle;">
+    <td style="padding: 100px; vertical-align: middle;">
       <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/3-removebg-preview.png" alt="Pré-requisito" alt="Descrição da imagem" alt="Descrição da imagem" style="max-width: 400px;">
     </td>
   </tr>
