@@ -6,9 +6,10 @@
   <img alt="Logo do projeto" src="logo_preta.png" width="200">
 </picture>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 10px;">
-    <p>Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
+<table border="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding: 10px; vertical-align: middle;">
+      Cadastro de Produtos – Registrar modelos de ar-condicionado, peças e
 acessórios (código, descrição, marca, especificações técnicas, etc.).
 * Controle de Entrada e Saída – Registrar movimentações (compras,
 vendas, devoluções) com data, quantidade e responsável.
@@ -40,16 +41,10 @@ programada).
 * Backup Automático – Cópia diária dos dados em servidor externo ou
 cloud.
 * Usabilidade – Interface intuitiva, com treinamento rápido para novos
-usuários.</p>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/3-removebg-preview.png" alt="Pré-requisito" alt="Descrição da imagem" width="500">
-  </div>
-</div>
-
-
-    
-
-
-    
-  
+usuários.
+    </td>
+    <td style="padding: 10px; vertical-align: middle;">
+      <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/3-removebg-preview.png" alt="Pré-requisito" alt="Descrição da imagem" alt="Descrição da imagem" style="max-width: 200px;">
+    </td>
+  </tr>
+</table>
