@@ -48,3 +48,12 @@ usuários.
     </td>
   </tr>
 </table>
+
+<div style="display: flex; align-items: center; background-color: #f4f4f4; padding: 15px; border-radius: 10px;">
+  <img src="URL_DO_GIF" alt="Ícone" width="80px" style="margin-right: 15px;">
+  <div>
+    <strong>📦 Cadastro de Produtos</strong><br>
+    Registre modelos de ar-condicionado, peças e acessórios com facilidade.
+  </div>
+</div>
+
