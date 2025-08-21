@@ -49,38 +49,36 @@ usuários.
   </tr>
 </table>
 
-<!-- Seção de Tecnologias Utilizadas -->
+
 <details>
   <summary><strong>🛠 Tecnologias Utilizadas</strong></summary>
   <br>
 
-  <!-- Linha com os ícones -->
   <p align="left">
-    <!-- HTML -->
+    <
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
          alt="HTML5" title="HTML5" width="40px" style="margin-right:10px;"/>
 
-    <!-- CSS -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
          alt="CSS3" title="CSS3" width="40px" style="margin-right:10px;"/>
 
-    <!-- JavaScript -->
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
          alt="JavaScript" title="JavaScript" width="40px" style="margin-right:10px;"/>
 
-    <!-- PHP -->
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
          alt="PHP" title="PHP" width="40px" style="margin-right:10px;"/>
 
-    <!-- MySQL -->
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
          alt="MySQL" title="MySQL" width="50px" style="margin-right:10px;"/>
 
-    <!-- React -->
+ 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
          alt="React" title="React" width="40px" style="margin-right:10px;"/>
 
-    <!-- Node.js -->
+   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
          alt="Node.js" title="Node.js" width="40px" style="margin-right:10px;"/>
   </p>
