@@ -43,7 +43,7 @@ cloud.
 usuários.</p>
   </div>
   <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/3-removebg-preview.png" alt="Pré-requisito" alt="Descrição da imagem" width="200">
+    <img src="https://github.com/WSM2025/W.S.M.---Repository/blob/main/images/3-removebg-preview.png" alt="Pré-requisito" alt="Descrição da imagem" width="500">
   </div>
 </div>
 
